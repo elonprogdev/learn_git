@@ -1,2 +1,2 @@
 # learn_git
-Hello 
+Hello GIT!
